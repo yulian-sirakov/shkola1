@@ -1,0 +1,8 @@
+.game-obstacle {
+    background: yellow;
+    border: 0.4vw solid purple;
+    margin-right: 1vw;
+    display: inline-block;
+    height: 50px;
+    width: 7vw;
+}
